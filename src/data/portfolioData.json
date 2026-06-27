@@ -1,0 +1,104 @@
+{
+  "personal": {
+    "name": "Shabiba Binta Shahadat",
+    "title": "Full-Stack Developer & AI/ML Researcher",
+    "phone": "+8801770554527",
+    "email": "shahadatshabiba@gmail.com",
+    "location": "Dhaka, Bangladesh",
+    "github": "https://github.com/Shabiba",
+    "linkedin": "https://www.linkedin.com/in/shabiba-binta-shahadat/",
+    "portfolio": "#",
+    "objective": "Final-year Computer Science and Engineering student at BRAC University with experience in full-stack web development, artificial intelligence, and machine learning through academic projects. Passionate about learning new technologies and developing practical software solutions. Eager to contribute to a collaborative engineering team while continuing to grow as a software developer."
+  },
+  "education": {
+    "institution": "BRAC University",
+    "location": "Dhaka, Bangladesh",
+    "degree": "Bachelor of Science in Computer Science and Engineering",
+    "graduation": "Expected Graduation: September 2026",
+    "cgpa": "3.25/4.00",
+    "thesis": {
+      "title": "Intelligent Bengali Sign Language Recognition and Bangladeshi Braille Representation",
+      "supervisor": "Dr. Md. Ashraful Alam, Associate Professor, Department of Computer Science and Engineering"
+    },
+    "coursework": [
+      "Artificial Intelligence",
+      "Machine Learning",
+      "Computer Vision",
+      "Software Engineering",
+      "Data Structures & Algorithms",
+      "Database Systems",
+      "Computer Networks",
+      "Operating Systems",
+      "Object-Oriented Programming"
+    ]
+  },
+  "research": [
+    {
+      "title": "Undergraduate Thesis Researcher",
+      "project": "Intelligent Bengali Sign Language Recognition & Braille Representation",
+      "institution": "BRAC University",
+      "supervisor": "Dr. Md. Ashraful Alam",
+      "period": "Jan 2026 – Present",
+      "bullets": [
+        "Developed a multimodal deep learning framework combining EfficientNet-B0, ViT, and GCNs for sign recognition.",
+        "Implemented a Cross-Modal Attention Fusion mechanism, achieving 91.27% accuracy and 0.9125 Macro F1-score.",
+        "Generated Bangladeshi Braille Unicode from recognized signs to support accessible communication."
+      ]
+    }
+  ],
+  "skills": {
+    "Programming Languages": ["Python", "JavaScript", "C++"],
+    "Full-Stack & Web": ["MERN Stack", "MongoDB", "Express.js", "React", "Node.js", "Tailwind CSS", "HTML5/CSS3"],
+    "ML & AI": ["TensorFlow", "PyTorch", "Pandas", "NumPy", "Computer Vision", "Deep Learning"],
+    "DevOps & Tools": ["Git", "GitHub", "Postman", "LaTeX", "Vite", "VS Code"]
+  },
+  "projects": [
+    {
+      "id": "agrinetwork",
+      "name": "AgriNetwork",
+      "type": "Full-Stack Web Application",
+      "technologies": ["MongoDB", "Express.js", "React", "Node.js", "Socket.io", "WebRTC"],
+      "github": "https://github.com/Shabiba/AgriNetwork",
+      "live": "#",
+      "description": "A full-stack peer-to-peer agricultural marketplace facilitating direct transactions between farmers and consumers, featuring real-time bidding and live video streaming.",
+      "bullets": [
+        "Developed a peer-to-peer agricultural marketplace for direct farmer-consumer sales.",
+        "Implemented real-time interactive product live streaming paired with a dynamic live-bidding system using Socket.io and WebRTC.",
+        "Integrated automated KYC (Know Your Customer) verification workflows to secure transactional pipelines."
+      ],
+      "featured": true
+    },
+    {
+      "id": "game3d",
+      "name": "3D Fishing Game",
+      "type": "Interactive 3D Game",
+      "technologies": ["Python", "PyOpenGL", "OpenGL Shaders", "Computer Graphics"],
+      "github": "https://github.com/Shabiba/3D-Fishing-Game",
+      "live": "#",
+      "description": "An interactive 3D simulation game utilizing Python and PyOpenGL for real-time graphics rendering, complete with custom event handling and physics.",
+      "bullets": [
+        "Developed a full 3D simulation game utilizing PyOpenGL for real-time computer graphics rendering.",
+        "Implemented custom 3D coordinate transformations, view projections, and bounding-box collision detection algorithms.",
+        "Designed responsive keyboard and mouse event-handling mechanics to handle user controls, hook physics, and state-driven environment interactions."
+      ],
+      "featured": false
+    }
+  ],
+  "certifications": [
+    {
+      "name": "Understanding Machine Learning",
+      "issuer": "DataCamp",
+      "date": "May 2026"
+    },
+    {
+      "name": "Cleaning Data in Python",
+      "issuer": "DataCamp",
+      "date": "Apr 2026"
+    },
+    {
+      "name": "Data Manipulation Track",
+      "issuer": "DataCamp",
+      "date": "Mar 2026"
+    }
+  ]
+}
