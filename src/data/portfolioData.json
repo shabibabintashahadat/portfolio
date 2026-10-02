@@ -54,6 +54,20 @@
   },
   "projects": [
     {
+      "id": "neural_network",
+      "name": "Multimodal Musical Context Analysis",
+      "type": "Deep Learning Project",
+      "technologies": ["Python", "GNN", "BERT", "Deep Learning"],
+      "github": "https://github.com/shabibabintashahadat/neural_network_project",
+      "live": "#",
+      "description": "A multimodal deep learning system combining Graph Neural Networks (GNN) and BERT to understand musical context from audio features and semantic metadata.",
+      "bullets": [
+        "Architected a multimodal deep learning pipeline integrating Graph Neural Networks (GNN) and BERT.",
+        "Processed and fused audio features with semantic metadata to deeply analyze and extract musical context."
+      ],
+      "featured": true
+    },
+    {
       "id": "agrinetwork",
       "name": "AgriNetwork",
       "type": "Full-Stack Web Application",
